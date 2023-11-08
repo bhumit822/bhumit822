@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhumit822
-- 👀 I’m interested in android app development.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in mobile app and backend development.
+- 🌱 I’m flutter and nodejs developer.
 - 📫 How to reach me ...
 
 <!---
